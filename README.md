@@ -48,6 +48,9 @@ Usage
 Known issues
 ------------
 
+* Stringification assumes a left-to-right writing system.
+  Let's hope Unicode will some day introduce semantic arrows, which can show
+  direction relative to the direction of the writing system.
 * Needs more/better tests and docs.
 
 
