@@ -1,0 +1,31 @@
+{ "name": "ubborg-lineage-find-common-ancestor-pmb",
+  "version": "0.0.1",
+  "description": "Given two resource plans, or two generic lists of parent objects, find common ancestor and the relation with them.",
+  "keywords": [],
+
+  "author": "M.K. (https://github.com/mk-pmb)",
+  "homepage": "https://github.com/mk-pmb/ubborg-lineage-find-common-ancestor-pmb-js/#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk-pmb/ubborg-lineage-find-common-ancestor-pmb-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mk-pmb/ubborg-lineage-find-common-ancestor-pmb-js/issues"
+  },
+  "contributors": [],
+
+  "private": false, "license": "ISC",
+
+  "main": "cmp.mjs",
+  "scripts": { "test": "nodemjs test.usage.mjs" },
+  "directories": { "test": "test" },
+
+  "dependencies": {},
+  "browser": {
+  },
+  "devDependencies": {
+  },
+
+
+  "npm vs. BOM = Unexpected token": "-*- coding: UTF-8 -*-"
+}
