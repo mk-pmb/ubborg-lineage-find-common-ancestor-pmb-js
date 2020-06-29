@@ -1,5 +1,5 @@
 { "name": "ubborg-lineage-find-common-ancestor-pmb",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Given two resource plans, or two generic lists of parent objects, find common ancestor and the relation with them.",
   "keywords": [],
 

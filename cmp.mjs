@@ -42,4 +42,9 @@ function cmp(a, b) {
   };
 }
 
+Object.assign(cmp, {
+  arrowJoin,
+  upgrade,
+});
+
 export default cmp;
